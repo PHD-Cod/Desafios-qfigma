@@ -6,3 +6,4 @@ https://www.figma.com/design/m91mLleamG6Q0yUqgrvMN4/Wireframe-m%C3%A9dia-fidelid
 Design system:
 https://www.figma.com/design/m91mLleamG6Q0yUqgrvMN4/Wireframe-m%C3%A9dia-fidelidade?node-id=36-16&p=f&t=CXowMOJIX4hnCWbE-0
 
+Protótipo navegável + todas às etapas unidas: https://www.figma.com/design/m91mLleamG6Q0yUqgrvMN4/Wireframe-pg?node-id=0-1&p=f&t=nDiE0zBjywr5UHeg-0
